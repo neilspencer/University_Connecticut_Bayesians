@@ -1,4 +1,4 @@
-# University of Connecticut Bayesian Statistics Reading Group
+# UConn Bayesian Statistics Reading Group
 
 This is a repository to help organize the Bayesian Statistics Reading Group at University of Connecticut. It contains:
 
