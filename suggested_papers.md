@@ -42,7 +42,11 @@ Here is where we maintain list of recent papers that could be interesting to dis
 
 - Barrientos, A. F., Sen, D., Page, G. L., & Dunson, D. B. (2023). Bayesian inferences on uncertain ranks and orderings: Application to ranking players and lineups. Bayesian Analysis, 18(3), 777-806.
 
+- Syed, S., Bouchard-Côté, A., Deligiannidis, G., & Doucet, A. (2022). Non-reversible parallel tempering: a scalable highly parallel MCMC scheme. Journal of the Royal Statistical Society Series B: Statistical Methodology, 84(2), 321-350.
+
 - Porwal, A., & Raftery, A. E. (2022). Effect of Model Space Priors on Statistical Inference with Model Uncertainty. The New England Journal of Statistics in Data Science, 1-10.
+
+
 
 Also, here are some impactful older papers that may be worth discussing.
 
