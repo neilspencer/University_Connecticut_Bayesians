@@ -10,7 +10,7 @@ We meet Mondays from 3pm to 4pm in AUST 434. For questions, email Neil at neil.s
 | October 30th, 2023  | ?     | ?|
 | November 6th, 2023  | ?   | ?|
 | November 13th, 2023 | ?   | ?|
-| November 20th, 2023 | ?   | ?|
+| November 20th, 2023 | Thanksgiving Recess   | ?|
 | November 27th, 2023 | ?   | ?|
 | December 4th, 2023  | ?   | ?|
 | December 11th, 2023 | ?   | ?|
