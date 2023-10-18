@@ -13,4 +13,4 @@ We meet Mondays from 3pm to 4pm in AUST 434. For questions, email Neil at neil.s
 | November 20th, 2023 | Thanksgiving Recess   | NA|
 | November 27th, 2023 | Alokesh Manna   | TBD|
 | December 4th, 2023  | Chae Yeon   | TBD|
-| December 11th, 2023 | TBD   | TBD|
+| December 11th, 2023 | Brisilda Ndreka  | [Latent space approaches to social network analysis](https://www.tandfonline.com/doi/abs/10.1198/016214502388618906)|
