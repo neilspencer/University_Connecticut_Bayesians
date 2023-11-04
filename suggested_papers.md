@@ -46,6 +46,8 @@ Here is where we maintain list of recent papers that could be interesting to dis
 
 - Porwal, A., & Raftery, A. E. (2022). Effect of Model Space Priors on Statistical Inference with Model Uncertainty. The New England Journal of Statistics in Data Science, 1-10.
 
+- Fong, E., Holmes, C., & Walker, S. G. (2021). Martingale posterior distributions. arXiv preprint arXiv:2103.15671. (To appear in the Journal of the Royal Statistical Society Series B)
+
 
 
 Also, here are some impactful older papers that may be worth discussing.
