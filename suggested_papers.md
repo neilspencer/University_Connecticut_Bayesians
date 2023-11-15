@@ -1,6 +1,6 @@
 # Paper Suggestions
 
-Here is where we maintain list of recent papers that could be interesting to discuss in the group. They are listed in no particular order. Members, feel free to add to the list.
+Here is where we maintain list of recent papers that could be interesting to discuss in the group. They are listed in no particular order. Members, feel free to add to the list. A paper is ~crossed off~ if someone has already presented it or claimed it.
 
 - Cai, D., Campbell, T., & Broderick, T. (2021, July). Finite mixture models do not reliably learn the number of components. In International Conference on Machine Learning (pp. 1158-1169). PMLR.
 
