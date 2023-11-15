@@ -34,7 +34,7 @@ Here is where we maintain list of recent papers that could be interesting to dis
 
 - Vehtari, A., Gelman, A., Simpson, D., Carpenter, B., & Bürkner, P. C. (2021). Rank-normalization, folding, and localization: An improved R ̂ for assessing convergence of MCMC (with discussion). Bayesian analysis, 16(2), 667-718.
 
-- Gelman, A., Simpson, D., & Betancourt, M. (2017). The prior can often only be understood in the context of the likelihood. Entropy, 19(10), 555.
+- ~Gelman, A., Simpson, D., & Betancourt, M. (2017). The prior can often only be understood in the context of the likelihood. Entropy, 19(10), 555.~
 
 - Wang, Y., Degleris, A., Williams, A. H., & Linderman, S. W. (2023). Spatiotemporal Clustering with Neyman-Scott Processes via Connections to Bayesian Nonparametric Mixture Models. Journal of the American Statistical Association (in Press).
 
@@ -48,18 +48,20 @@ Here is where we maintain list of recent papers that could be interesting to dis
 
 - Fong, E., Holmes, C., & Walker, S. G. (2021). Martingale posterior distributions. arXiv preprint arXiv:2103.15671. (To appear in the Journal of the Royal Statistical Society Series B)
 
+- Martino, S., & Riebler, A. (2019). Integrated nested Laplace approximations (INLA). arXiv preprint arXiv:1907.01248.
+
 
 
 Also, here are some impactful older papers that may be worth discussing.
 
 - Berk, R. H. (1966). Limiting behavior of posterior distributions when the model is incorrect. The Annals of Mathematical Statistics, 37(1), 51-58.
 
-- Tierney, L., & Kadane, J. B. (1986). Accurate approximations for posterior moments and marginal densities. Journal of the american statistical association, 81(393), 82-86.
+- ~Tierney, L., & Kadane, J. B. (1986). Accurate approximations for posterior moments and marginal densities. Journal of the american statistical association, 81(393), 82-86.~
 
 - Gelman, Andrew, Xiao-Li Meng, and Hal Stern. "Posterior predictive assessment of model fitness via realized discrepancies." Statistica sinica (1996): 733-760.
 
 - Neal, R. M. (2001). Annealed importance sampling. Statistics and computing, 11, 125-139.
 
-- Hoff, P. D., Raftery, A. E., & Handcock, M. S. (2002). Latent space approaches to social network analysis. Journal of the american Statistical association, 97(460), 1090-1098.
+- ~Hoff, P. D., Raftery, A. E., & Handcock, M. S. (2002). Latent space approaches to social network analysis. Journal of the american Statistical association, 97(460), 1090-1098.~
 
 - Neal, R. M. (2003). Slice sampling. The annals of statistics, 31(3), 705-767.
