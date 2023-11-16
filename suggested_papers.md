@@ -2,7 +2,7 @@
 
 Here is where we maintain list of recent papers that could be interesting to discuss in the group. They are listed in no particular order. Members, feel free to add to the list. A paper is ~crossed off~ if someone has already presented it or claimed it.
 
-- Cai, D., Campbell, T., & Broderick, T. (2021, July). Finite mixture models do not reliably learn the number of components. In International Conference on Machine Learning (pp. 1158-1169). PMLR.
+- Cai, D., Campbell, T., & Broderick, T. (2021). Finite mixture models do not reliably learn the number of components. In International Conference on Machine Learning (pp. 1158-1169). PMLR.
 
 - Moran, G. E., Blei, D. M., & Ranganath, R. (2023). Holdout predictive checks for Bayesian model criticism. Journal of the Royal Statistical Society Series B: Statistical Methodology, qkad105.
 
@@ -24,7 +24,7 @@ Here is where we maintain list of recent papers that could be interesting to dis
 
 - Woody, S., Carvalho, C. M., & Murray, J. S. (2021). Model interpretation through lower-dimensional posterior summarization. Journal of Computational and Graphical Statistics, 30(1), 144-161.
 
-- Silva, Luca Alessandro, and Giacomo Zanella. "Robust leave-one-out cross-validation for high-dimensional Bayesian models." Journal of the American Statistical Association just-accepted (2023): 1-27.
+- Silva, L. A., & Zanella, G. (2023). Robust leave-one-out cross-validation for high-dimensional Bayesian models. Journal of the American Statistical Association, (just-accepted), 1-27.
 
 - Di Benedetto, G., Caron, F., & Teh, Y. W. (2021). Nonexchangeable random partition models for microclustering. The Annals of Statistics, 49(4), 1931-1957.
 
@@ -50,6 +50,7 @@ Here is where we maintain list of recent papers that could be interesting to dis
 
 - Martino, S., & Riebler, A. (2019). Integrated nested Laplace approximations (INLA). arXiv preprint arXiv:1907.01248.
 
+- Huggins, J. H., & Miller, J. W. (2023). Reproducible model selection using bagged posteriors. Bayesian analysis, 18(1), 79.
 
 
 Also, here are some impactful older papers that may be worth discussing.
