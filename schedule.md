@@ -11,6 +11,6 @@ We meet Mondays from 3pm to 4pm in AUST 434. For questions, email Neil at neil.s
 | November 6th, 2023 | Zoe Gibbs | [The Prior Can Often Only Be Understood in the Context of the Likelihood](https://www.mdpi.com/1099-4300/19/10/555)|
 | November 13th, 2023 | [Min Lin](https://minlinstat.github.io/) | [Transport Monte Carlo: High-Accuracy Posterior Approximation via Random Transport](https://doi.org/10.1080/01621459.2021.2003201)|
 | November 20th, 2023 | Thanksgiving Recess   | NA|
-| November 27th, 2023 | Alokesh Manna   | TBD|
+| November 27th, 2023 | Alokesh Manna   | [Integrated Nested Laplace Approximations (INLA)](https://arxiv.org/pdf/1907.01248.pdf)|
 | December 4th, 2023  | Chaeyeon Yoo   | TBD|
 | December 11th, 2023 | Brisilda Ndreka  | [Latent space approaches to social network analysis](https://www.tandfonline.com/doi/abs/10.1198/016214502388618906)|
