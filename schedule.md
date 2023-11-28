@@ -14,3 +14,14 @@ We meet Mondays from 3pm to 4pm in AUST 434. For questions, email Neil at neil.s
 | November 27th, 2023 | Alokesh Manna   | [Integrated Nested Laplace Approximations (INLA)](https://arxiv.org/pdf/1907.01248.pdf)|
 | December 4th, 2023  | Chaeyeon Yoo   | [Holdout predictive checks for Bayesian model criticism](https://www.gemma-moran.com/publications/10203-holdout-predictive-checks-for-bayesian-model-criticism-previously-population-predictive-checks)|
 | December 11th, 2023 | Brisilda Ndreka  | [Latent space approaches to social network analysis](https://www.tandfonline.com/doi/abs/10.1198/016214502388618906)|
+| Holiday Break | NA | NA|
+| January 22nd, 2024 | Jongwoo Choi | TBD|
+| January 29th, 2024 | TBD | TBD|
+| February 5th, 2024 | TBD | TBD|
+| February 12th, 2024| TBD | TBD|
+| February 19th, 2024| TBD | TBD|
+| February 26th, 2024| TBD | TBD|
+| March 4th, 2024| TBD | TBD|
+| March 11th, 2024| Spring Break | NA|
+| March 18th, 2024| TBD | TBD|
+| March 25th, 2024| TBD | TBD|
