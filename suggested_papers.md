@@ -52,6 +52,10 @@ Here is where we maintain list of recent papers that could be interesting to dis
 
 - Huggins, J. H., & Miller, J. W. (2023). Reproducible model selection using bagged posteriors. Bayesian analysis, 18(1), 79.
 
+- Yao, Y., Vehtari, A., Simpson, D., & Gelman, A. (2018). Yes, but did it work?: Evaluating variational inference. In International Conference on Machine Learning (pp. 5581-5590). PMLR.
+
+- Huggins, J., Kasprzak, M., Campbell, T., & Broderick, T. (2020). Validated variational inference via practical posterior error bounds. In International Conference on Artificial Intelligence and Statistics (pp. 1792-1802). PMLR.
+
 
 Also, here are some impactful older papers that may be worth discussing.
 
