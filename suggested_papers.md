@@ -4,7 +4,7 @@ Here is where we maintain list of recent papers that could be interesting to dis
 
 - Cai, D., Campbell, T., & Broderick, T. (2021). Finite mixture models do not reliably learn the number of components. In International Conference on Machine Learning (pp. 1158-1169). PMLR.
 
-- Moran, G. E., Blei, D. M., & Ranganath, R. (2023). Holdout predictive checks for Bayesian model criticism. Journal of the Royal Statistical Society Series B: Statistical Methodology, qkad105.
+- ~Moran, G. E., Blei, D. M., & Ranganath, R. (2023). Holdout predictive checks for Bayesian model criticism. Journal of the Royal Statistical Society Series B: Statistical Methodology, qkad105.~
 
 - Simpson, D., Rue, H., Riebler, A., Martins, T. G., & Sørbye, S. H. (2017). Penalising Model Component Complexity: A Principled, Practical Approach to Constructing Priors. Statistical Science, 32(1), 1-28.
 
@@ -48,7 +48,7 @@ Here is where we maintain list of recent papers that could be interesting to dis
 
 - Fong, E., Holmes, C., & Walker, S. G. (2021). Martingale posterior distributions. arXiv preprint arXiv:2103.15671. (To appear in the Journal of the Royal Statistical Society Series B)
 
-- Martino, S., & Riebler, A. (2019). Integrated nested Laplace approximations (INLA). arXiv preprint arXiv:1907.01248.
+- ~Martino, S., & Riebler, A. (2019). Integrated nested Laplace approximations (INLA). arXiv preprint arXiv:1907.01248.~
 
 - Huggins, J. H., & Miller, J. W. (2023). Reproducible model selection using bagged posteriors. Bayesian analysis, 18(1), 79.
 
