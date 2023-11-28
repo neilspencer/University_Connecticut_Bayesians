@@ -12,6 +12,5 @@ We meet Mondays from 3pm to 4pm in AUST 434. For questions, email Neil at neil.s
 | November 13th, 2023 | [Min Lin](https://minlinstat.github.io/) | [Transport Monte Carlo: High-Accuracy Posterior Approximation via Random Transport](https://doi.org/10.1080/01621459.2021.2003201)|
 | November 20th, 2023 | Thanksgiving Recess   | NA|
 | November 27th, 2023 | Alokesh Manna   | [Integrated Nested Laplace Approximations (INLA)](https://arxiv.org/pdf/1907.01248.pdf)|
-| December 4th, 2023  | Chaeyeon Yoo   | [Holdout predictive checks for Bayesian model criticism](https://www.gemma-moran.com/publications/10203-holdout-predictive-checks-for-bayesian-model-criticism-previously-population-predictive-checks
-)|
+| December 4th, 2023  | Chaeyeon Yoo   | [Holdout predictive checks for Bayesian model criticism](https://www.gemma-moran.com/publications/10203-holdout-predictive-checks-for-bayesian-model-criticism-previously-population-predictive-checks)|
 | December 11th, 2023 | Brisilda Ndreka  | [Latent space approaches to social network analysis](https://www.tandfonline.com/doi/abs/10.1198/016214502388618906)|
