@@ -58,6 +58,8 @@ Here is where we maintain list of recent papers that could be interesting to dis
 
 - Medina, M. A., Olea, J. L. M., Rush, C., & Velez, A. (2022). On the robustness to misspecification of α-posteriors and their variational approximations. The Journal of Machine Learning Research, 23(1), 6579-6629.
 
+- Luo, Z. T., Sang, H., & Mallick, B. (2021). BAST: Bayesian additive regression spanning trees for complex constrained domain. Advances in Neural Information Processing Systems, 34, 90-102.
+
 
 Also, here are some impactful older papers that may be worth discussing.
 
