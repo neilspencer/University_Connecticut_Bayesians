@@ -56,6 +56,8 @@ Here is where we maintain list of recent papers that could be interesting to dis
 
 - Huggins, J., Kasprzak, M., Campbell, T., & Broderick, T. (2020). Validated variational inference via practical posterior error bounds. In International Conference on Artificial Intelligence and Statistics (pp. 1792-1802). PMLR.
 
+- Medina, M. A., Olea, J. L. M., Rush, C., & Velez, A. (2022). On the robustness to misspecification of α-posteriors and their variational approximations. The Journal of Machine Learning Research, 23(1), 6579-6629.
+
 
 Also, here are some impactful older papers that may be worth discussing.
 
