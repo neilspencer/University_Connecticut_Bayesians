@@ -18,7 +18,7 @@ We meet Mondays from 3pm to 4pm in AUST 434. For questions, email Neil at neil.s
 | January 22nd, 2024 | Department Seminar | NA|
 | January 29th, 2024 | Department Seminar | NA|
 | February 5th, 2024 | Department Seminar | NA|
-| February 12th, 2024| TBD | TBD|
+| February 12th, 2024| Jongwoo Choi | TBD|
 | February 19th, 2024| TBD | TBD|
 | February 26th, 2024| TBD | TBD|
 | March 4th, 2024| TBD | TBD|
