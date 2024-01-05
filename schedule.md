@@ -15,9 +15,9 @@ We meet Mondays from 3pm to 4pm in AUST 434. For questions, email Neil at neil.s
 | December 4th, 2023  | Chaeyeon Yoo   | [Holdout predictive checks for Bayesian model criticism](https://www.gemma-moran.com/publications/10203-holdout-predictive-checks-for-bayesian-model-criticism-previously-population-predictive-checks)|
 | December 11th, 2023 | Brisilda Ndreka  | [Latent space approaches to social network analysis](https://www.tandfonline.com/doi/abs/10.1198/016214502388618906)|
 | Holiday Break | NA | NA|
-| January 22nd, 2024 | Jongwoo Choi | TBD|
-| January 29th, 2024 | TBD | TBD|
-| February 5th, 2024 | TBD | TBD|
+| January 22nd, 2024 | Department Seminar | NA|
+| January 29th, 2024 | Department Seminar | NA|
+| February 5th, 2024 | Department Seminar | NA|
 | February 12th, 2024| TBD | TBD|
 | February 19th, 2024| TBD | TBD|
 | February 26th, 2024| TBD | TBD|
