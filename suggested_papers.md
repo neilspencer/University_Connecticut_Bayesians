@@ -50,7 +50,7 @@ Here is where we maintain list of recent papers that could be interesting to dis
 
 - ~Martino, S., & Riebler, A. (2019). Integrated nested Laplace approximations (INLA). arXiv preprint arXiv:1907.01248.~
 
-- Huggins, J. H., & Miller, J. W. (2023). Reproducible model selection using bagged posteriors. Bayesian analysis, 18(1), 79.
+- ~Huggins, J. H., & Miller, J. W. (2023). Reproducible model selection using bagged posteriors. Bayesian analysis, 18(1), 79.~
 
 - Yao, Y., Vehtari, A., Simpson, D., & Gelman, A. (2018). Yes, but did it work?: Evaluating variational inference. In International Conference on Machine Learning (pp. 5581-5590). PMLR.
 
